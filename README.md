@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Miki!
 - 👀 I’m interested in a lot of things but currently I am interested in learning some new programming languages and framework like Laravel.
-- 🌱 I’m currently learning Laravel from Udemy.
 - 💞️ Currently, I am not seeking any collaboration but I do hope to see or be involved in lots of new projects in the future.
 - 📫 To reach me, you could email me at mekiceng99@gmail.com.
 
